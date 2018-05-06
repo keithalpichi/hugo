@@ -18,6 +18,7 @@ In the React documentation it is:
 Huh? Okay. Let’s turn to [Michael Jackson](https://medium.com/@mjackson), who explains in his article [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) that a render prop is:
 
 > a function prop that a component uses to know what to render
+
 Better? The definition may be hard to grasp. So let’s build something to learn how it works.
 
 ## A Simple Pop-Up Modal
