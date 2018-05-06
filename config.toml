@@ -30,7 +30,7 @@ pygmentsStyle = "pastie"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
-    url = "https://www.linkedin.com/in/keithalpiochi/"
+    url = "https://www.linkedin.com/in/keithalpichi/"
 [[params.social]]
     name = "Stackoverflow"
     weight = 4
