@@ -5,7 +5,10 @@ See [Hugo Docs](https://gohugo.io/documentation/) for complete instructions.
 - start dev server with `hugo server -D`
 
 ## Deploy
-`./deploy '<commit-msg>'`
+`./deploy.sh '<commit-msg>'`
+
+## To Do
+- Fix CSS compilation
 
 ## Copyright & License
 
