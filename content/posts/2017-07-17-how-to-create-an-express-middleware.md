@@ -17,13 +17,15 @@ From the documentation,
 > Middlewares are functions that have access to the request object (req), the response object (res), and the next function in the application’s request-response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware.
 
 To give you a relatable picture, Express middleware's are the workers in a manufacturing line where each individual has a specific and unique responsibility. When a worker receives a product (request) from a previous worker they can do **one** of the following:
- - **reject** the product if it doesn't meet strict standards, thus the product ceases to continue down the production line
- - **add to or manipulate** the product and/or **allow** the product to continue down the production line where the next worker (middleware) does their job
+
+- **reject** the product if it doesn't meet strict standards, thus the product ceases to continue down the production line
+- **add to or manipulate** the product and/or **allow** the product to continue down the production line where the next worker (middleware) does their job
 
 If you've used Express before, you may have used some [middlewares](https://expressjs.com/en/resources/middleware.html):
-  - 'body-parser'- parses the request body and places it into the 'req.body' key of the request object
-  - 'express.static'- serves your static files
-  - 'express.logger'- uses a logger
+
+- 'body-parser'- parses the request body and places it into the 'req.body' key of the request object
+- 'express.static'- serves your static files
+- 'express.logger'- uses a logger
 
 All you had to do was add these to your Express application or route and BAM... you had more functionality! It seemed like magic but it's actually quite simple.
 
@@ -32,9 +34,10 @@ In this article I'll go over the details of middlewares and some useful examples
 ## Req, Res, Next
 
 Middlewares have access to three things:
-  - the [request](https://expressjs.com/en/4x/api.html#req) object
-  - the [response](https://expressjs.com/en/4x/api.html#res) object
-  - the 'next' function
+
+- the [request](https://expressjs.com/en/4x/api.html#req) object
+- the [response](https://expressjs.com/en/4x/api.html#res) object
+- the 'next' function
 
 {{< highlight javascript >}}
 function customMiddleware (req, res, next) {
@@ -55,7 +58,7 @@ app.use(express.bodyParser)
 app.use(customMiddleware)
 {{< / highlight >}}
 
-- On every request these two middlewares will run- 'bodyParser' will run first before the one below it
+On every request these two middlewares will run- 'bodyParser' will run first before the one below it
 
 {{< highlight javascript >}}
 const express = require('express')
@@ -68,6 +71,7 @@ app.use('/api', apiRouter)
 {{< / highlight >}}
 
 You can have middlewares run on specific routes.
+
 - 'customMiddleware' will run first followed by 'customMiddleware2' for the 'GET' method on the path '/some/path'
 - Only 'customMiddleware2' will run for all requests to the 'apiRouter'
 

@@ -41,6 +41,7 @@ yarn add less-loader
 {{< / highlight >}}
 
 A quick overview of these packages:
+
 - '*-loader' packages are responsible for compiling, injecting css scripts to the DOM, and resolving imports
 - 'extract-text-webpack-plugin' extracts multiple SASS or LESS files and builds them into a single file
 
@@ -91,6 +92,7 @@ Make sure to reference the compiled css file in your 'index.html' file and you'r
 If you have any questions feel free to comment below or send me a tweet.
 
 #### References
+
 - [webpack](https://webpack.js.org/configuration/)
 - [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin)
 - [sass-loader](https://github.com/webpack-contrib/sass-loader)

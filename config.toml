@@ -6,6 +6,7 @@ enableEmoji = true
 disqusShortname = "keithalpichi"
 enableRobotsTXT = true
 googleAnalytics = "UA-49683420-3"
+pygmentsUseClasses = true
 pygmentsStyle = "pastie"
 
 [params] # theme parameters

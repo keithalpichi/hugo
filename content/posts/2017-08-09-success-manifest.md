@@ -13,6 +13,7 @@ What is success really? What qualities make a successful person? What words cont
 I created Success Manifest to document my experiences and advice on success from taking a single word and explaining how it relates to success. Following this article and many others, I will devote an entire episode focused on one word.
 
 Here are some of its key components:
+
 - **it’s focused**- each article is focused on a single word rather than success in general. You pick and choose what you want to read
 - **it’s unique**- everyone has their own experiences and advice. We can all learn from one another so hopefully you can learn from me
 - **it’s honest and relevant**- normally you listen to success advice from outliers decades after their experiences where it may not still be applicable. By listening to someone who recently experienced failure/success you get truthful humble advice without being coerced to buy a course, book, or service
@@ -20,6 +21,7 @@ Here are some of its key components:
 
 ## Why Listen To Me
 I’m not a millionaire (yet 😝) and I don’t own a business (anymore 💀). I’m just a California dude in his twenties with big dreams, why listen to me?
+
 - I’ve taken the risks involved with quitting a corporate job within seven months after graduating college to start my own business in spite of not having a business degree
 - I’ve managed this fitness business for over two years where I learned a ton about business, accounting, marketing, sales, e-commerce, blogging, digital services, et cetera
 - I followed an unconventional route of teaching myself software engineering while running my business without going back to school
