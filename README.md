@@ -4,8 +4,11 @@
 See [Hugo Docs](https://gohugo.io/documentation/) for complete instructions.
 - start dev server with `hugo server -D`
 
-## Deploy
-`./deploy.sh '<commit-msg>'`
+## Deploy Production
+`./deploy.sh '<commit-msg>'` will generate `public/` assets and push to git submodule at [https://github.com/keithalpichi/keithalpichi.github.io](https://github.com/keithalpichi/keithalpichi.github.io).
+
+## Deploy Development
+perform normal git commits and push but ignore pushing the `public/` folder.
 
 ## To Do
 - Fix CSS compilation
