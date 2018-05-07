@@ -20,3 +20,15 @@ When I'm not coding I like to exercise, cook, enjoy different cuisines, make my 
 If you feel my vibe, contact me!
 
 Mahalo! 🤙
+
+## I Like to Cook
+{{< instagram BicbB65l63h hidecaption >}}
+
+## I Like to Think I Take Good Pictures
+{{< instagram 6_oZBVueuO hidecaption >}}
+
+## I Like to Lift Heavy Objects
+{{< instagram BNH40tZh35B hidecaption >}}
+
+## I Play Video Games
+{{< instagram BeMtP66hZ0E hidecaption >}}
