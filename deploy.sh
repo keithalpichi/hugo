@@ -9,6 +9,13 @@ hugo
 
 # Go To Public folder
 cd public
+
+# Remove old css file
+rm css/style.min.css
+
+# Add new css
+cp assets/css/style.min.css css/
+
 # Add changes to git.
 git add .
 
