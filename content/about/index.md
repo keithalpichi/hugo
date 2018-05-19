@@ -7,7 +7,7 @@ keywords: about
 - Deeply passionate about real-time scalable performance
 - A leader who pursues his work with a growth-mindset, pride, and grit
 - Polyglot programmer enthusiastic about challenging himself
-- Interested in Kubernetes & real-time distributed systems
+- Interested in Kubernetes, serverless computing, event-driven architectures & real-time distributed systems
 
 # Aloha!
 
