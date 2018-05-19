@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Keith Alpichi"
-theme = "coder"
 enableEmoji = true
 disqusShortname = "keithalpichi"
 enableRobotsTXT = true

@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+./build.sh
+
+echo -e "\033[0;32mBuilding & deploying updates to GitHub...\033[0m"
 
 # Build the project.
 hugo
