@@ -7,11 +7,11 @@ keywords: about
 - Deeply passionate about real-time scalable performance
 - A leader who pursues his work with a growth-mindset, pride, and grit
 - Polyglot programmer enthusiastic about challenging himself
-- Interested in Kubernetes, serverless computing, event-driven architectures & real-time distributed systems
+- Interested in intuitive UI's, Kubernetes, serverless computing, event-driven architectures & real-time distributed systems
 
 # Aloha!
 
-Hi, my name is Keith Alpichi. I am a full-stack software engineer at Channelmeter in San Francisco, California. I enjoy building performant and scalable real-time applications from the intuitive user interfaces all the way to the databases on the other side of the wire.
+Hi, my name is Keith Alpichi. I am a software engineer at HealthLytix in San Diego, California. I enjoy building performant and scalable real-time applications from the intuitive user interfaces all the way to the databases on the other side of the wire.
 
 The impact software technology has on the world really amazes me. I love that one person on one computer can build an entire software company and present it instantly to millions of people. I am so fortunate to be in an industry of innovative and inquisitive thinkers who are highly passionate about changing the world through software.
 
